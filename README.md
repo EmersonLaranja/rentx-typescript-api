@@ -1,0 +1,1 @@
+# rentx-typescript-api
